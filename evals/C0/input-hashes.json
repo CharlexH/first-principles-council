@@ -1,0 +1,42 @@
+{
+  "previous": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6",
+    "SKILL.md": "4019e26529a1ce86b0c987f7abb6921d6af657f19ab185929f6432f55bee9571",
+    "business-decisions.md": "abe4717e0c635430a5b9e13f63427edf92a94b67d6b1d8b2d55e8cd11c5d8331"
+  },
+  "startup-idea": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6",
+    "SKILL.md": "2b5c82c5321891bc6735beef69c2d5b355cc37b29b6f484a5ae52e4aa5e1a358"
+  },
+  "mom-test": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6",
+    "SKILL.md": "fbf036f31e5932e68adc6d26abe8d75f2213b3c50ea345f7dffa2f235b0ce0ae"
+  },
+  "baseline": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6"
+  },
+  "startup-idea-validator": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6",
+    "SKILL.md": "99c21d969e234ce3aedce3bef7acb14a183dcff0d884096277274b0cb03a297e"
+  },
+  "jobs-to-be-done": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6",
+    "SKILL.md": "cc227aa837bda4ae0910324e52a90d338354501d005f7ef2fbd0cff9fd73aaf1"
+  },
+  "create-business": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6",
+    "SKILL.md": "2da65aaa976f03e43c638d3d140c44fd9e270f38f8221e7fee495d52d800c925"
+  },
+  "blue-ocean-strategy": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6",
+    "SKILL.md": "6fefda23f1673390476244db624ff0fe9c115a445d0a43728d5d5d310a8ae896"
+  },
+  "feynman-principles": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6",
+    "SKILL.md": "186ddfc5096ab3903762df3881cc4bc697e0a4dffcef919103b98e1aac16e4ea"
+  },
+  "continuous-discovery": {
+    "initial.md": "15e7508f1c53c4a5044772f5228614809dd7bf1825b4073c1e1354cd1edac8f6",
+    "SKILL.md": "44260b572a050417ba3733021eaa1694318fda80794c3e07800c66b4bc4a0c9e"
+  }
+}

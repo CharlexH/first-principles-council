@@ -1,0 +1,10 @@
+{
+  "H1": {
+    "A": "baseline",
+    "B": "candidate"
+  },
+  "H2": {
+    "A": "candidate",
+    "B": "baseline"
+  }
+}

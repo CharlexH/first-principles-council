@@ -1,0 +1,7 @@
+interface:
+  display_name: "First Principles Council"
+  short_description: "Find business opportunities and test what matters"
+  brand_color: "#214C42"
+  default_prompt: "Use $first-principles-thinking to challenge my business idea, compare realistic income paths, and choose one testable next move."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">First Principles Council</title>
+  <desc id="desc">Five lenses converge on one testable next move. A business decision skill.</desc>
+  <rect width="1200" height="440" rx="24" fill="#F2F0E8"/>
+  <path d="M48 68H1152" stroke="#CFD3C8"/>
+  <text x="52" y="45" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#426052">AN OPEN DECISION SKILL</text>
+  <text x="52" y="157" font-family="Georgia, 'Times New Roman', serif" font-size="57" fill="#173B32">First Principles</text>
+  <text x="52" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="57" fill="#173B32">Council</text>
+  <text x="55" y="278" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#426052">Five lenses. One testable next move.</text>
+  <text x="55" y="373" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1" fill="#5E6E61">QUESTION THE PREMISE · FIND THE BUYER · TEST THE PATH</text>
+  <g fill="none" stroke="#90A795" stroke-width="2">
+    <path d="M816 118L971 231M790 174L971 231M785 231H971M790 288L971 231M816 344L971 231"/>
+    <path d="M992 231H1110" stroke="#214C42" stroke-width="3"/>
+    <path d="M1096 218L1111 231L1096 244" stroke="#214C42" stroke-width="3"/>
+  </g>
+  <g fill="#F2F0E8" stroke="#214C42" stroke-width="2">
+    <circle cx="816" cy="118" r="10"/><circle cx="790" cy="174" r="10"/>
+    <circle cx="785" cy="231" r="10"/><circle cx="790" cy="288" r="10"/>
+    <circle cx="816" cy="344" r="10"/>
+  </g>
+  <circle cx="971" cy="231" r="21" fill="#214C42"/>
+  <circle cx="971" cy="231" r="6" fill="#E8C774"/>
+  <text x="936" y="292" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#426052">DECIDE</text>
+  <text x="1080" y="292" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#426052">TEST</text>
+</svg>
